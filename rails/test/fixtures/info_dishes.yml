@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  place: MyString
+  dish_id: 1
+  nutrition: MyString
+  description: MyString
+
+two:
+  place: MyString
+  dish_id: 1
+  nutrition: MyString
+  description: MyString
